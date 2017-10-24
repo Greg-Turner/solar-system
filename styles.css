@@ -1,0 +1,13 @@
+section {
+    border: 1px solid black;
+    margin: 1em 25%;
+}
+
+ul {
+    margin: 1em 1em;
+}
+
+li {
+    list-style: none;
+    margin: 1em 15%;
+}
